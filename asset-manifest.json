@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github_new_site/static/css/main.b53f27ef.chunk.css",
+    "main.js": "/github_new_site/static/js/main.c49bd9bf.chunk.js",
+    "main.js.map": "/github_new_site/static/js/main.c49bd9bf.chunk.js.map",
+    "runtime-main.js": "/github_new_site/static/js/runtime-main.d514377d.js",
+    "runtime-main.js.map": "/github_new_site/static/js/runtime-main.d514377d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/github_new_site/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3d1dd240.chunk.js": "/github_new_site/static/js/2.3d1dd240.chunk.js",
+    "static/js/2.3d1dd240.chunk.js.map": "/github_new_site/static/js/2.3d1dd240.chunk.js.map",
+    "index.html": "/github_new_site/index.html",
+    "precache-manifest.87eaeb449d312072b3f0d1595eab2a70.js": "/github_new_site/precache-manifest.87eaeb449d312072b3f0d1595eab2a70.js",
+    "service-worker.js": "/github_new_site/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/github_new_site/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b53f27ef.chunk.css.map": "/github_new_site/static/css/main.b53f27ef.chunk.css.map",
+    "static/js/2.3d1dd240.chunk.js.LICENSE.txt": "/github_new_site/static/js/2.3d1dd240.chunk.js.LICENSE.txt",
+    "static/media/styles.module.css": "/github_new_site/static/media/netflix.75f5baf3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d514377d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3d1dd240.chunk.js",
+    "static/css/main.b53f27ef.chunk.css",
+    "static/js/main.c49bd9bf.chunk.js"
+  ]
+}
